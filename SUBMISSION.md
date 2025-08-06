@@ -5,7 +5,7 @@
 - **Name:** Shaik Vahida Banu  
 - **Email:** vbanu5408@gmail.com  
 - **Phone:** +91-9390455835  
-- **GitHub Repository:** https://github.com/vahidabanu/backend-engineer-challenge  
+- **GitHub Repository:** https://github.com/vahidabanu/Backend_Engineer_Challenge
 - **Video Demo Link:** https://drive.google.com/file/d/1GmTwKe3qRVS-qob8gRNGptePQEPvIwyw/view?usp=sharing
 
 ---
